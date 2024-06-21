@@ -1,0 +1,15 @@
+D:\New folder (3)\OnBudget.BL\bin\Release\net7.0\OnBudget.BL.deps.json
+D:\New folder (3)\OnBudget.BL\bin\Release\net7.0\OnBudget.BL.dll
+D:\New folder (3)\OnBudget.BL\bin\Release\net7.0\OnBudget.BL.pdb
+D:\New folder (3)\OnBudget.BL\bin\Release\net7.0\OnBudget.DA.dll
+D:\New folder (3)\OnBudget.BL\bin\Release\net7.0\OnBudget.DA.pdb
+D:\New folder (3)\OnBudget.BL\obj\Release\net7.0\OnBudget.BL.csproj.AssemblyReference.cache
+D:\New folder (3)\OnBudget.BL\obj\Release\net7.0\OnBudget.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (3)\OnBudget.BL\obj\Release\net7.0\OnBudget.BL.AssemblyInfoInputs.cache
+D:\New folder (3)\OnBudget.BL\obj\Release\net7.0\OnBudget.BL.AssemblyInfo.cs
+D:\New folder (3)\OnBudget.BL\obj\Release\net7.0\OnBudget.BL.csproj.CoreCompileInputs.cache
+D:\New folder (3)\OnBudget.BL\obj\Release\net7.0\OnBudget.2BBDD078.Up2Date
+D:\New folder (3)\OnBudget.BL\obj\Release\net7.0\OnBudget.BL.dll
+D:\New folder (3)\OnBudget.BL\obj\Release\net7.0\refint\OnBudget.BL.dll
+D:\New folder (3)\OnBudget.BL\obj\Release\net7.0\OnBudget.BL.pdb
+D:\New folder (3)\OnBudget.BL\obj\Release\net7.0\ref\OnBudget.BL.dll

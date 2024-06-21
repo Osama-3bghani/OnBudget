@@ -1,0 +1,346 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\backend\\New_folder2\\OnBudget\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58858290-3397-4BA1-88BB-71B61688F08D}|..\\OnBudget.BL\\OnBudget.BL.csproj|e:\\backend\\new_folder2\\onbudget.bl\\services\\orderservice\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2534995E-3983-4010-BC1B-A2E6D181F80C}|..\\OnBudget.DA\\OnBudget.DA.csproj|e:\\backend\\new_folder2\\onbudget.da\\repository\\orderrepo\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58858290-3397-4BA1-88BB-71B61688F08D}|..\\OnBudget.BL\\OnBudget.BL.csproj|e:\\backend\\new_folder2\\onbudget.bl\\dtos\\orderdtos\\writeorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2534995E-3983-4010-BC1B-A2E6D181F80C}|..\\OnBudget.DA\\OnBudget.DA.csproj|e:\\backend\\new_folder2\\onbudget.da\\migrations\\20240620094425_orderupdate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2534995E-3983-4010-BC1B-A2E6D181F80C}|..\\OnBudget.DA\\OnBudget.DA.csproj|e:\\backend\\new_folder2\\onbudget.da\\migrations\\20240620114059_update.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2534995E-3983-4010-BC1B-A2E6D181F80C}|..\\OnBudget.DA\\OnBudget.DA.csproj|e:\\backend\\new_folder2\\onbudget.da\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\backend\\New_folder2\\OnBudget.DA\\Migrations\\20240620115106_UpdateDate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\backend\\New_folder2\\OnBudget.DA\\Migrations\\20240620094425_OrderUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58858290-3397-4BA1-88BB-71B61688F08D}|..\\OnBudget.BL\\OnBudget.BL.csproj|e:\\backend\\new_folder2\\onbudget.bl\\dtos\\orderdtos\\readorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2534995E-3983-4010-BC1B-A2E6D181F80C}|..\\OnBudget.DA\\OnBudget.DA.csproj|e:\\backend\\new_folder2\\onbudget.da\\model\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2534995E-3983-4010-BC1B-A2E6D181F80C}|..\\OnBudget.DA\\OnBudget.DA.csproj|e:\\backend\\new_folder2\\onbudget.da\\model\\entities\\orderproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\backend\\New_folder2\\OnBudget.DA\\Migrations\\20240620114059_Update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58858290-3397-4BA1-88BB-71B61688F08D}|..\\OnBudget.BL\\OnBudget.BL.csproj|e:\\backend\\new_folder2\\onbudget.bl\\dtos\\productquantitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58858290-3397-4BA1-88BB-71B61688F08D}|..\\OnBudget.BL\\OnBudget.BL.csproj|e:\\backend\\new_folder2\\onbudget.bl\\dtos\\productdtos\\readproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0824BB1-334F-40A7-B1CA-DA0669C55C1A}|OnBudget.csproj|e:\\backend\\new_folder2\\onbudget\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0824BB1-334F-40A7-B1CA-DA0669C55C1A}|OnBudget.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2534995E-3983-4010-BC1B-A2E6D181F80C}|..\\OnBudget.DA\\OnBudget.DA.csproj|e:\\backend\\new_folder2\\onbudget.da\\appcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58858290-3397-4BA1-88BB-71B61688F08D}|..\\OnBudget.BL\\OnBudget.BL.csproj|e:\\backend\\new_folder2\\onbudget.bl\\services\\orderservice\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58858290-3397-4BA1-88BB-71B61688F08D}|..\\OnBudget.BL\\OnBudget.BL.csproj|e:\\backend\\new_folder2\\onbudget.bl\\dtos\\productdtos\\writeproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0824BB1-334F-40A7-B1CA-DA0669C55C1A}|OnBudget.csproj|e:\\backend\\new_folder2\\onbudget\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0824BB1-334F-40A7-B1CA-DA0669C55C1A}|OnBudget.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\backend\\New_folder2\\OnBudget.DA\\Migrations\\20240620093858_OrderUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240620114059_Update.Designer.cs",
+              "DocumentMoniker": "E:\\backend\\New_folder2\\OnBudget.DA\\Migrations\\20240620114059_Update.Designer.cs",
+              "RelativeDocumentMoniker": "..\\OnBudget.DA\\Migrations\\20240620114059_Update.Designer.cs",
+              "ToolTip": "E:\\backend\\New_folder2\\OnBudget.DA\\Migrations\\20240620114059_Update.Designer.cs",
+              "RelativeToolTip": "..\\OnBudget.DA\\Migrations\\20240620114059_Update.Designer.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAFMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:50:29.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "E:\\backend\\New_folder2\\OnBudget.BL\\Services\\OrderService\\OrderService.cs",
+              "RelativeDocumentMoniker": "..\\OnBudget.BL\\Services\\OrderService\\OrderService.cs",
+              "ToolTip": "E:\\backend\\New_folder2\\OnBudget.BL\\Services\\OrderService\\OrderService.cs",
+              "RelativeToolTip": "..\\OnBudget.BL\\Services\\OrderService\\OrderService.cs",
+              "ViewState": "AQIAAIUBAAAAAAAAAAAmwIgBAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:53:56.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\backend\\New_folder2\\OnBudget.DA\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\OnBudget.DA\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\backend\\New_folder2\\OnBudget.DA\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\OnBudget.DA\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:50:30.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240620094425_OrderUpdate.Designer.cs",
+              "DocumentMoniker": "E:\\backend\\New_folder2\\OnBudget.DA\\Migrations\\20240620094425_OrderUpdate.Designer.cs",
+              "RelativeDocumentMoniker": "..\\OnBudget.DA\\Migrations\\20240620094425_OrderUpdate.Designer.cs",
+              "ToolTip": "E:\\backend\\New_folder2\\OnBudget.DA\\Migrations\\20240620094425_OrderUpdate.Designer.cs",
+              "RelativeToolTip": "..\\OnBudget.DA\\Migrations\\20240620094425_OrderUpdate.Designer.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAAFgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:50:28.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WriteOrderDto.cs",
+              "DocumentMoniker": "E:\\backend\\New_folder2\\OnBudget.BL\\DTOs\\OrderDtos\\WriteOrderDto.cs",
+              "RelativeDocumentMoniker": "..\\OnBudget.BL\\DTOs\\OrderDtos\\WriteOrderDto.cs",
+              "ToolTip": "E:\\backend\\New_folder2\\OnBudget.BL\\DTOs\\OrderDtos\\WriteOrderDto.cs",
+              "RelativeToolTip": "..\\OnBudget.BL\\DTOs\\OrderDtos\\WriteOrderDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:04:39.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "E:\\backend\\New_folder2\\OnBudget.DA\\Repository\\OrderRepo\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "..\\OnBudget.DA\\Repository\\OrderRepo\\OrderRepository.cs",
+              "ToolTip": "E:\\backend\\New_folder2\\OnBudget.DA\\Repository\\OrderRepo\\OrderRepository.cs",
+              "RelativeToolTip": "..\\OnBudget.DA\\Repository\\OrderRepo\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:37:26.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240620115106_UpdateDate.cs",
+              "DocumentMoniker": "E:\\backend\\New_folder2\\OnBudget.DA\\Migrations\\20240620115106_UpdateDate.cs",
+              "RelativeDocumentMoniker": "..\\OnBudget.DA\\Migrations\\20240620115106_UpdateDate.cs",
+              "ToolTip": "E:\\backend\\New_folder2\\OnBudget.DA\\Migrations\\20240620115106_UpdateDate.cs",
+              "RelativeToolTip": "..\\OnBudget.DA\\Migrations\\20240620115106_UpdateDate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:51:06.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\backend\\New_folder2\\OnBudget.DA\\Model\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "..\\OnBudget.DA\\Model\\Entities\\Order.cs",
+              "ToolTip": "E:\\backend\\New_folder2\\OnBudget.DA\\Model\\Entities\\Order.cs",
+              "RelativeToolTip": "..\\OnBudget.DA\\Model\\Entities\\Order.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:35:39.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240620114059_Update.cs",
+              "DocumentMoniker": "E:\\backend\\New_folder2\\OnBudget.DA\\Migrations\\20240620114059_Update.cs",
+              "RelativeDocumentMoniker": "..\\OnBudget.DA\\Migrations\\20240620114059_Update.cs",
+              "ToolTip": "E:\\backend\\New_folder2\\OnBudget.DA\\Migrations\\20240620114059_Update.cs",
+              "RelativeToolTip": "..\\OnBudget.DA\\Migrations\\20240620114059_Update.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:40:59.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReadOrderDto.cs",
+              "DocumentMoniker": "E:\\backend\\New_folder2\\OnBudget.BL\\DTOs\\OrderDtos\\ReadOrderDto.cs",
+              "RelativeDocumentMoniker": "..\\OnBudget.BL\\DTOs\\OrderDtos\\ReadOrderDto.cs",
+              "ToolTip": "E:\\backend\\New_folder2\\OnBudget.BL\\DTOs\\OrderDtos\\ReadOrderDto.cs",
+              "RelativeToolTip": "..\\OnBudget.BL\\DTOs\\OrderDtos\\ReadOrderDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:25:12.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240620094425_OrderUpdate.cs",
+              "DocumentMoniker": "E:\\backend\\New_folder2\\OnBudget.DA\\Migrations\\20240620094425_OrderUpdate.cs",
+              "RelativeDocumentMoniker": "..\\OnBudget.DA\\Migrations\\20240620094425_OrderUpdate.cs",
+              "ToolTip": "E:\\backend\\New_folder2\\OnBudget.DA\\Migrations\\20240620094425_OrderUpdate.cs",
+              "RelativeToolTip": "..\\OnBudget.DA\\Migrations\\20240620094425_OrderUpdate.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAmwEAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:44:25.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderProduct.cs",
+              "DocumentMoniker": "E:\\backend\\New_folder2\\OnBudget.DA\\Model\\Entities\\OrderProduct.cs",
+              "RelativeDocumentMoniker": "..\\OnBudget.DA\\Model\\Entities\\OrderProduct.cs",
+              "ToolTip": "E:\\backend\\New_folder2\\OnBudget.DA\\Model\\Entities\\OrderProduct.cs",
+              "RelativeToolTip": "..\\OnBudget.DA\\Model\\Entities\\OrderProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:33:54.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\backend\\New_folder2\\OnBudget\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "E:\\backend\\New_folder2\\OnBudget\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:13:32.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReadProductDto.cs",
+              "DocumentMoniker": "E:\\backend\\New_folder2\\OnBudget.BL\\DTOs\\ProductDtos\\ReadProductDto.cs",
+              "RelativeDocumentMoniker": "..\\OnBudget.BL\\DTOs\\ProductDtos\\ReadProductDto.cs",
+              "ToolTip": "E:\\backend\\New_folder2\\OnBudget.BL\\DTOs\\ProductDtos\\ReadProductDto.cs",
+              "RelativeToolTip": "..\\OnBudget.BL\\DTOs\\ProductDtos\\ReadProductDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:02:30.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductQuantityDto.cs",
+              "DocumentMoniker": "E:\\backend\\New_folder2\\OnBudget.BL\\DTOs\\ProductQuantityDto.cs",
+              "RelativeDocumentMoniker": "..\\OnBudget.BL\\DTOs\\ProductQuantityDto.cs",
+              "ToolTip": "E:\\backend\\New_folder2\\OnBudget.BL\\DTOs\\ProductQuantityDto.cs",
+              "RelativeToolTip": "..\\OnBudget.BL\\DTOs\\ProductQuantityDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:48:24.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\backend\\New_folder2\\OnBudget.DA\\AppContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\OnBudget.DA\\AppContext\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\backend\\New_folder2\\OnBudget.DA\\AppContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\OnBudget.DA\\AppContext\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwCcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:22:04.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WriteProductDto.cs",
+              "DocumentMoniker": "E:\\backend\\New_folder2\\OnBudget.BL\\DTOs\\ProductDtos\\WriteProductDto.cs",
+              "RelativeDocumentMoniker": "..\\OnBudget.BL\\DTOs\\ProductDtos\\WriteProductDto.cs",
+              "ToolTip": "E:\\backend\\New_folder2\\OnBudget.BL\\DTOs\\ProductDtos\\WriteProductDto.cs",
+              "RelativeToolTip": "..\\OnBudget.BL\\DTOs\\ProductDtos\\WriteProductDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:06:14.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "E:\\backend\\New_folder2\\OnBudget.BL\\Services\\OrderService\\IOrderService.cs",
+              "RelativeDocumentMoniker": "..\\OnBudget.BL\\Services\\OrderService\\IOrderService.cs",
+              "ToolTip": "E:\\backend\\New_folder2\\OnBudget.BL\\Services\\OrderService\\IOrderService.cs",
+              "RelativeToolTip": "..\\OnBudget.BL\\Services\\OrderService\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:42:43.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20240620093858_OrderUpdate.cs",
+              "DocumentMoniker": "E:\\backend\\New_folder2\\OnBudget.DA\\Migrations\\20240620093858_OrderUpdate.cs",
+              "RelativeDocumentMoniker": "..\\OnBudget.DA\\Migrations\\20240620093858_OrderUpdate.cs",
+              "ToolTip": "E:\\backend\\New_folder2\\OnBudget.DA\\Migrations\\20240620093858_OrderUpdate.cs",
+              "RelativeToolTip": "..\\OnBudget.DA\\Migrations\\20240620093858_OrderUpdate.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwEcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:38:58.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\backend\\New_folder2\\OnBudget\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\backend\\New_folder2\\OnBudget\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-18T18:17:14.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

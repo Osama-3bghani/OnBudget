@@ -1,0 +1,550 @@
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\appsettings.json
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\OnBudget.exe
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\OnBudget.deps.json
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\OnBudget.runtimeconfig.json
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\OnBudget.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\OnBudget.pdb
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\20100\source\repos\OnBudget\obj\Debug\net7.0\OnBudget.csproj.AssemblyReference.cache
+C:\Users\20100\source\repos\OnBudget\obj\Debug\net7.0\OnBudget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20100\source\repos\OnBudget\obj\Debug\net7.0\OnBudget.AssemblyInfoInputs.cache
+C:\Users\20100\source\repos\OnBudget\obj\Debug\net7.0\OnBudget.AssemblyInfo.cs
+C:\Users\20100\source\repos\OnBudget\obj\Debug\net7.0\OnBudget.csproj.CoreCompileInputs.cache
+C:\Users\20100\source\repos\OnBudget\obj\Debug\net7.0\OnBudget.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\20100\source\repos\OnBudget\obj\Debug\net7.0\OnBudget.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\20100\source\repos\OnBudget\obj\Debug\net7.0\staticwebassets\msbuild.OnBudget.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\20100\source\repos\OnBudget\obj\Debug\net7.0\staticwebassets\msbuild.build.OnBudget.props
+C:\Users\20100\source\repos\OnBudget\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.OnBudget.props
+C:\Users\20100\source\repos\OnBudget\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.OnBudget.props
+C:\Users\20100\source\repos\OnBudget\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\20100\source\repos\OnBudget\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\20100\source\repos\OnBudget\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\20100\source\repos\OnBudget\obj\Debug\net7.0\scopedcss\bundle\OnBudget.styles.css
+C:\Users\20100\source\repos\OnBudget\obj\Debug\net7.0\OnBudget.csproj.CopyComplete
+C:\Users\20100\source\repos\OnBudget\obj\Debug\net7.0\OnBudget.dll
+C:\Users\20100\source\repos\OnBudget\obj\Debug\net7.0\refint\OnBudget.dll
+C:\Users\20100\source\repos\OnBudget\obj\Debug\net7.0\OnBudget.pdb
+C:\Users\20100\source\repos\OnBudget\obj\Debug\net7.0\OnBudget.genruntimeconfig.cache
+C:\Users\20100\source\repos\OnBudget\obj\Debug\net7.0\ref\OnBudget.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\OnBudget.BL.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\OnBudget.DA.dll
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\OnBudget.BL.pdb
+C:\Users\20100\source\repos\OnBudget\bin\Debug\net7.0\OnBudget.DA.pdb
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\appsettings.Development.json
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\appsettings.json
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\OnBudget.exe
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\OnBudget.deps.json
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\OnBudget.runtimeconfig.json
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\OnBudget.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\OnBudget.pdb
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\Azure.Core.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\Azure.Identity.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\System.Memory.Data.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\OnBudget.BL.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\OnBudget.DA.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\OnBudget.BL.pdb
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\OnBudget.DA.pdb
+D:\New folder (3)\OnBudget\obj\Debug\net7.0\OnBudget.csproj.AssemblyReference.cache
+D:\New folder (3)\OnBudget\obj\Debug\net7.0\OnBudget.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (3)\OnBudget\obj\Debug\net7.0\OnBudget.AssemblyInfoInputs.cache
+D:\New folder (3)\OnBudget\obj\Debug\net7.0\OnBudget.AssemblyInfo.cs
+D:\New folder (3)\OnBudget\obj\Debug\net7.0\OnBudget.csproj.CoreCompileInputs.cache
+D:\New folder (3)\OnBudget\obj\Debug\net7.0\OnBudget.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder (3)\OnBudget\obj\Debug\net7.0\OnBudget.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder (3)\OnBudget\obj\Debug\net7.0\OnBudget.sourcelink.json
+D:\New folder (3)\OnBudget\obj\Debug\net7.0\staticwebassets.build.json
+D:\New folder (3)\OnBudget\obj\Debug\net7.0\staticwebassets.development.json
+D:\New folder (3)\OnBudget\obj\Debug\net7.0\staticwebassets\msbuild.OnBudget.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder (3)\OnBudget\obj\Debug\net7.0\staticwebassets\msbuild.build.OnBudget.props
+D:\New folder (3)\OnBudget\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.OnBudget.props
+D:\New folder (3)\OnBudget\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.OnBudget.props
+D:\New folder (3)\OnBudget\obj\Debug\net7.0\staticwebassets.pack.json
+D:\New folder (3)\OnBudget\obj\Debug\net7.0\scopedcss\bundle\OnBudget.styles.css
+D:\New folder (3)\OnBudget\obj\Debug\net7.0\OnBudget.csproj.Up2Date
+D:\New folder (3)\OnBudget\obj\Debug\net7.0\OnBudget.dll
+D:\New folder (3)\OnBudget\obj\Debug\net7.0\refint\OnBudget.dll
+D:\New folder (3)\OnBudget\obj\Debug\net7.0\OnBudget.pdb
+D:\New folder (3)\OnBudget\obj\Debug\net7.0\OnBudget.genruntimeconfig.cache
+D:\New folder (3)\OnBudget\obj\Debug\net7.0\ref\OnBudget.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\Humanizer.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\New folder (3)\OnBudget\bin\Debug\net7.0\System.CodeDom.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\appsettings.Development.json
+I:\New folder 2\OnBudget\bin\Debug\net7.0\appsettings.json
+I:\New folder 2\OnBudget\bin\Debug\net7.0\OnBudget.exe
+I:\New folder 2\OnBudget\bin\Debug\net7.0\OnBudget.deps.json
+I:\New folder 2\OnBudget\bin\Debug\net7.0\OnBudget.runtimeconfig.json
+I:\New folder 2\OnBudget\bin\Debug\net7.0\OnBudget.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\OnBudget.pdb
+I:\New folder 2\OnBudget\bin\Debug\net7.0\Azure.Core.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\Azure.Identity.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\Humanizer.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.OpenApi.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\Mono.TextTemplating.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\System.CodeDom.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\System.Drawing.Common.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\System.Memory.Data.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\System.Runtime.Caching.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\System.Security.Permissions.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\System.Windows.Extensions.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\OnBudget.BL.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\OnBudget.DA.dll
+I:\New folder 2\OnBudget\bin\Debug\net7.0\OnBudget.BL.pdb
+I:\New folder 2\OnBudget\bin\Debug\net7.0\OnBudget.DA.pdb
+I:\New folder 2\OnBudget\obj\Debug\net7.0\OnBudget.csproj.AssemblyReference.cache
+I:\New folder 2\OnBudget\obj\Debug\net7.0\OnBudget.GeneratedMSBuildEditorConfig.editorconfig
+I:\New folder 2\OnBudget\obj\Debug\net7.0\OnBudget.AssemblyInfoInputs.cache
+I:\New folder 2\OnBudget\obj\Debug\net7.0\OnBudget.AssemblyInfo.cs
+I:\New folder 2\OnBudget\obj\Debug\net7.0\OnBudget.csproj.CoreCompileInputs.cache
+I:\New folder 2\OnBudget\obj\Debug\net7.0\OnBudget.MvcApplicationPartsAssemblyInfo.cs
+I:\New folder 2\OnBudget\obj\Debug\net7.0\OnBudget.MvcApplicationPartsAssemblyInfo.cache
+I:\New folder 2\OnBudget\obj\Debug\net7.0\OnBudget.sourcelink.json
+I:\New folder 2\OnBudget\obj\Debug\net7.0\staticwebassets.build.json
+I:\New folder 2\OnBudget\obj\Debug\net7.0\staticwebassets.development.json
+I:\New folder 2\OnBudget\obj\Debug\net7.0\staticwebassets\msbuild.OnBudget.Microsoft.AspNetCore.StaticWebAssets.props
+I:\New folder 2\OnBudget\obj\Debug\net7.0\staticwebassets\msbuild.build.OnBudget.props
+I:\New folder 2\OnBudget\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.OnBudget.props
+I:\New folder 2\OnBudget\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.OnBudget.props
+I:\New folder 2\OnBudget\obj\Debug\net7.0\staticwebassets.pack.json
+I:\New folder 2\OnBudget\obj\Debug\net7.0\scopedcss\bundle\OnBudget.styles.css
+I:\New folder 2\OnBudget\obj\Debug\net7.0\OnBudget.csproj.Up2Date
+I:\New folder 2\OnBudget\obj\Debug\net7.0\OnBudget.dll
+I:\New folder 2\OnBudget\obj\Debug\net7.0\refint\OnBudget.dll
+I:\New folder 2\OnBudget\obj\Debug\net7.0\OnBudget.pdb
+I:\New folder 2\OnBudget\obj\Debug\net7.0\OnBudget.genruntimeconfig.cache
+I:\New folder 2\OnBudget\obj\Debug\net7.0\ref\OnBudget.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\appsettings.Development.json
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\appsettings.json
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\OnBudget.exe
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\OnBudget.deps.json
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\OnBudget.runtimeconfig.json
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\OnBudget.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\OnBudget.pdb
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\Azure.Core.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\Azure.Identity.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\Humanizer.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\System.CodeDom.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\System.Memory.Data.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\OnBudget.BL.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\OnBudget.DA.dll
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\OnBudget.BL.pdb
+F:\New folder 2\New folder 2\OnBudget\bin\Debug\net7.0\OnBudget.DA.pdb
+F:\New folder 2\New folder 2\OnBudget\obj\Debug\net7.0\OnBudget.csproj.AssemblyReference.cache
+F:\New folder 2\New folder 2\OnBudget\obj\Debug\net7.0\OnBudget.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder 2\New folder 2\OnBudget\obj\Debug\net7.0\OnBudget.AssemblyInfoInputs.cache
+F:\New folder 2\New folder 2\OnBudget\obj\Debug\net7.0\OnBudget.AssemblyInfo.cs
+F:\New folder 2\New folder 2\OnBudget\obj\Debug\net7.0\OnBudget.csproj.CoreCompileInputs.cache
+F:\New folder 2\New folder 2\OnBudget\obj\Debug\net7.0\OnBudget.MvcApplicationPartsAssemblyInfo.cs
+F:\New folder 2\New folder 2\OnBudget\obj\Debug\net7.0\OnBudget.MvcApplicationPartsAssemblyInfo.cache
+F:\New folder 2\New folder 2\OnBudget\obj\Debug\net7.0\staticwebassets.build.json
+F:\New folder 2\New folder 2\OnBudget\obj\Debug\net7.0\staticwebassets.development.json
+F:\New folder 2\New folder 2\OnBudget\obj\Debug\net7.0\staticwebassets\msbuild.OnBudget.Microsoft.AspNetCore.StaticWebAssets.props
+F:\New folder 2\New folder 2\OnBudget\obj\Debug\net7.0\staticwebassets\msbuild.build.OnBudget.props
+F:\New folder 2\New folder 2\OnBudget\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.OnBudget.props
+F:\New folder 2\New folder 2\OnBudget\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.OnBudget.props
+F:\New folder 2\New folder 2\OnBudget\obj\Debug\net7.0\staticwebassets.pack.json
+F:\New folder 2\New folder 2\OnBudget\obj\Debug\net7.0\scopedcss\bundle\OnBudget.styles.css
+F:\New folder 2\New folder 2\OnBudget\obj\Debug\net7.0\OnBudget.csproj.Up2Date
+F:\New folder 2\New folder 2\OnBudget\obj\Debug\net7.0\OnBudget.dll
+F:\New folder 2\New folder 2\OnBudget\obj\Debug\net7.0\refint\OnBudget.dll
+F:\New folder 2\New folder 2\OnBudget\obj\Debug\net7.0\OnBudget.pdb
+F:\New folder 2\New folder 2\OnBudget\obj\Debug\net7.0\OnBudget.genruntimeconfig.cache
+F:\New folder 2\New folder 2\OnBudget\obj\Debug\net7.0\ref\OnBudget.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\appsettings.Development.json
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\appsettings.json
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\OnBudget.exe
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\OnBudget.deps.json
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\OnBudget.runtimeconfig.json
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\OnBudget.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\OnBudget.pdb
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\Azure.Core.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\Azure.Identity.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\Humanizer.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\System.CodeDom.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\System.Memory.Data.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\OnBudget.BL.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\OnBudget.DA.dll
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\OnBudget.BL.pdb
+F:\Projects\backend\New folder 2\OnBudget\bin\Debug\net7.0\OnBudget.DA.pdb
+F:\Projects\backend\New folder 2\OnBudget\obj\Debug\net7.0\OnBudget.csproj.AssemblyReference.cache
+F:\Projects\backend\New folder 2\OnBudget\obj\Debug\net7.0\OnBudget.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\backend\New folder 2\OnBudget\obj\Debug\net7.0\OnBudget.AssemblyInfoInputs.cache
+F:\Projects\backend\New folder 2\OnBudget\obj\Debug\net7.0\OnBudget.AssemblyInfo.cs
+F:\Projects\backend\New folder 2\OnBudget\obj\Debug\net7.0\OnBudget.csproj.CoreCompileInputs.cache
+F:\Projects\backend\New folder 2\OnBudget\obj\Debug\net7.0\OnBudget.MvcApplicationPartsAssemblyInfo.cs
+F:\Projects\backend\New folder 2\OnBudget\obj\Debug\net7.0\OnBudget.MvcApplicationPartsAssemblyInfo.cache
+F:\Projects\backend\New folder 2\OnBudget\obj\Debug\net7.0\staticwebassets.build.json
+F:\Projects\backend\New folder 2\OnBudget\obj\Debug\net7.0\staticwebassets.development.json
+F:\Projects\backend\New folder 2\OnBudget\obj\Debug\net7.0\staticwebassets\msbuild.OnBudget.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Projects\backend\New folder 2\OnBudget\obj\Debug\net7.0\staticwebassets\msbuild.build.OnBudget.props
+F:\Projects\backend\New folder 2\OnBudget\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.OnBudget.props
+F:\Projects\backend\New folder 2\OnBudget\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.OnBudget.props
+F:\Projects\backend\New folder 2\OnBudget\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Projects\backend\New folder 2\OnBudget\obj\Debug\net7.0\scopedcss\bundle\OnBudget.styles.css
+F:\Projects\backend\New folder 2\OnBudget\obj\Debug\net7.0\OnBudget.csproj.Up2Date
+F:\Projects\backend\New folder 2\OnBudget\obj\Debug\net7.0\OnBudget.dll
+F:\Projects\backend\New folder 2\OnBudget\obj\Debug\net7.0\refint\OnBudget.dll
+F:\Projects\backend\New folder 2\OnBudget\obj\Debug\net7.0\OnBudget.pdb
+F:\Projects\backend\New folder 2\OnBudget\obj\Debug\net7.0\OnBudget.genruntimeconfig.cache
+F:\Projects\backend\New folder 2\OnBudget\obj\Debug\net7.0\ref\OnBudget.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\appsettings.Development.json
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\appsettings.json
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\OnBudget.exe
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\OnBudget.deps.json
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\OnBudget.runtimeconfig.json
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\OnBudget.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\OnBudget.pdb
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\Azure.Core.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\Azure.Identity.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\Humanizer.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\System.CodeDom.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\System.Memory.Data.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\OnBudget.BL.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\OnBudget.DA.dll
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\OnBudget.BL.pdb
+F:\Projects\backend\New_folder2\OnBudget\bin\Debug\net7.0\OnBudget.DA.pdb
+F:\Projects\backend\New_folder2\OnBudget\obj\Debug\net7.0\OnBudget.csproj.AssemblyReference.cache
+F:\Projects\backend\New_folder2\OnBudget\obj\Debug\net7.0\OnBudget.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\backend\New_folder2\OnBudget\obj\Debug\net7.0\OnBudget.AssemblyInfoInputs.cache
+F:\Projects\backend\New_folder2\OnBudget\obj\Debug\net7.0\OnBudget.AssemblyInfo.cs
+F:\Projects\backend\New_folder2\OnBudget\obj\Debug\net7.0\OnBudget.csproj.CoreCompileInputs.cache
+F:\Projects\backend\New_folder2\OnBudget\obj\Debug\net7.0\OnBudget.MvcApplicationPartsAssemblyInfo.cs
+F:\Projects\backend\New_folder2\OnBudget\obj\Debug\net7.0\OnBudget.MvcApplicationPartsAssemblyInfo.cache
+F:\Projects\backend\New_folder2\OnBudget\obj\Debug\net7.0\staticwebassets.build.json
+F:\Projects\backend\New_folder2\OnBudget\obj\Debug\net7.0\staticwebassets.development.json
+F:\Projects\backend\New_folder2\OnBudget\obj\Debug\net7.0\staticwebassets\msbuild.OnBudget.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Projects\backend\New_folder2\OnBudget\obj\Debug\net7.0\staticwebassets\msbuild.build.OnBudget.props
+F:\Projects\backend\New_folder2\OnBudget\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.OnBudget.props
+F:\Projects\backend\New_folder2\OnBudget\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.OnBudget.props
+F:\Projects\backend\New_folder2\OnBudget\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Projects\backend\New_folder2\OnBudget\obj\Debug\net7.0\scopedcss\bundle\OnBudget.styles.css
+F:\Projects\backend\New_folder2\OnBudget\obj\Debug\net7.0\OnBudget.csproj.Up2Date
+F:\Projects\backend\New_folder2\OnBudget\obj\Debug\net7.0\OnBudget.dll
+F:\Projects\backend\New_folder2\OnBudget\obj\Debug\net7.0\refint\OnBudget.dll
+F:\Projects\backend\New_folder2\OnBudget\obj\Debug\net7.0\OnBudget.pdb
+F:\Projects\backend\New_folder2\OnBudget\obj\Debug\net7.0\OnBudget.genruntimeconfig.cache
+F:\Projects\backend\New_folder2\OnBudget\obj\Debug\net7.0\ref\OnBudget.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\appsettings.Development.json
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\appsettings.json
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\OnBudget.exe
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\OnBudget.deps.json
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\OnBudget.runtimeconfig.json
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\OnBudget.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\OnBudget.pdb
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\Azure.Core.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\Azure.Identity.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\Humanizer.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\System.CodeDom.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\System.Memory.Data.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\OnBudget.BL.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\OnBudget.DA.dll
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\OnBudget.BL.pdb
+E:\backend\New_folder2\OnBudget\bin\Debug\net7.0\OnBudget.DA.pdb
+E:\backend\New_folder2\OnBudget\obj\Debug\net7.0\OnBudget.csproj.AssemblyReference.cache
+E:\backend\New_folder2\OnBudget\obj\Debug\net7.0\OnBudget.GeneratedMSBuildEditorConfig.editorconfig
+E:\backend\New_folder2\OnBudget\obj\Debug\net7.0\OnBudget.AssemblyInfoInputs.cache
+E:\backend\New_folder2\OnBudget\obj\Debug\net7.0\OnBudget.AssemblyInfo.cs
+E:\backend\New_folder2\OnBudget\obj\Debug\net7.0\OnBudget.csproj.CoreCompileInputs.cache
+E:\backend\New_folder2\OnBudget\obj\Debug\net7.0\OnBudget.MvcApplicationPartsAssemblyInfo.cs
+E:\backend\New_folder2\OnBudget\obj\Debug\net7.0\OnBudget.MvcApplicationPartsAssemblyInfo.cache
+E:\backend\New_folder2\OnBudget\obj\Debug\net7.0\staticwebassets.build.json
+E:\backend\New_folder2\OnBudget\obj\Debug\net7.0\staticwebassets.development.json
+E:\backend\New_folder2\OnBudget\obj\Debug\net7.0\staticwebassets\msbuild.OnBudget.Microsoft.AspNetCore.StaticWebAssets.props
+E:\backend\New_folder2\OnBudget\obj\Debug\net7.0\staticwebassets\msbuild.build.OnBudget.props
+E:\backend\New_folder2\OnBudget\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.OnBudget.props
+E:\backend\New_folder2\OnBudget\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.OnBudget.props
+E:\backend\New_folder2\OnBudget\obj\Debug\net7.0\staticwebassets.pack.json
+E:\backend\New_folder2\OnBudget\obj\Debug\net7.0\scopedcss\bundle\OnBudget.styles.css
+E:\backend\New_folder2\OnBudget\obj\Debug\net7.0\OnBudget.csproj.Up2Date
+E:\backend\New_folder2\OnBudget\obj\Debug\net7.0\OnBudget.dll
+E:\backend\New_folder2\OnBudget\obj\Debug\net7.0\refint\OnBudget.dll
+E:\backend\New_folder2\OnBudget\obj\Debug\net7.0\OnBudget.pdb
+E:\backend\New_folder2\OnBudget\obj\Debug\net7.0\OnBudget.genruntimeconfig.cache
+E:\backend\New_folder2\OnBudget\obj\Debug\net7.0\ref\OnBudget.dll

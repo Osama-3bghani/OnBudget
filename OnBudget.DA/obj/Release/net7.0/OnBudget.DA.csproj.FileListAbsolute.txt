@@ -1,0 +1,14 @@
+D:\New folder (3)\OnBudget.DA\bin\Release\net7.0\OnBudget.DA.deps.json
+D:\New folder (3)\OnBudget.DA\bin\Release\net7.0\OnBudget.DA.runtimeconfig.json
+D:\New folder (3)\OnBudget.DA\bin\Release\net7.0\OnBudget.DA.dll
+D:\New folder (3)\OnBudget.DA\bin\Release\net7.0\OnBudget.DA.pdb
+D:\New folder (3)\OnBudget.DA\obj\Release\net7.0\OnBudget.DA.csproj.AssemblyReference.cache
+D:\New folder (3)\OnBudget.DA\obj\Release\net7.0\OnBudget.DA.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (3)\OnBudget.DA\obj\Release\net7.0\OnBudget.DA.AssemblyInfoInputs.cache
+D:\New folder (3)\OnBudget.DA\obj\Release\net7.0\OnBudget.DA.AssemblyInfo.cs
+D:\New folder (3)\OnBudget.DA\obj\Release\net7.0\OnBudget.DA.csproj.CoreCompileInputs.cache
+D:\New folder (3)\OnBudget.DA\obj\Release\net7.0\OnBudget.DA.dll
+D:\New folder (3)\OnBudget.DA\obj\Release\net7.0\refint\OnBudget.DA.dll
+D:\New folder (3)\OnBudget.DA\obj\Release\net7.0\OnBudget.DA.pdb
+D:\New folder (3)\OnBudget.DA\obj\Release\net7.0\OnBudget.DA.genruntimeconfig.cache
+D:\New folder (3)\OnBudget.DA\obj\Release\net7.0\ref\OnBudget.DA.dll

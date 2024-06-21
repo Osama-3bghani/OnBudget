@@ -1,0 +1,98 @@
+C:\Users\20100\source\repos\OnBudget.DA\bin\Debug\net7.0\OnBudget.DA.deps.json
+C:\Users\20100\source\repos\OnBudget.DA\bin\Debug\net7.0\OnBudget.DA.runtimeconfig.json
+C:\Users\20100\source\repos\OnBudget.DA\bin\Debug\net7.0\OnBudget.DA.dll
+C:\Users\20100\source\repos\OnBudget.DA\bin\Debug\net7.0\OnBudget.DA.pdb
+C:\Users\20100\source\repos\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.csproj.AssemblyReference.cache
+C:\Users\20100\source\repos\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20100\source\repos\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.AssemblyInfoInputs.cache
+C:\Users\20100\source\repos\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.AssemblyInfo.cs
+C:\Users\20100\source\repos\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.csproj.CoreCompileInputs.cache
+C:\Users\20100\source\repos\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.dll
+C:\Users\20100\source\repos\OnBudget.DA\obj\Debug\net7.0\refint\OnBudget.DA.dll
+C:\Users\20100\source\repos\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.pdb
+C:\Users\20100\source\repos\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.genruntimeconfig.cache
+C:\Users\20100\source\repos\OnBudget.DA\obj\Debug\net7.0\ref\OnBudget.DA.dll
+D:\New folder (3)\OnBudget.DA\bin\Debug\net7.0\OnBudget.DA.deps.json
+D:\New folder (3)\OnBudget.DA\bin\Debug\net7.0\OnBudget.DA.runtimeconfig.json
+D:\New folder (3)\OnBudget.DA\bin\Debug\net7.0\OnBudget.DA.dll
+D:\New folder (3)\OnBudget.DA\bin\Debug\net7.0\OnBudget.DA.pdb
+D:\New folder (3)\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.csproj.AssemblyReference.cache
+D:\New folder (3)\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (3)\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.AssemblyInfoInputs.cache
+D:\New folder (3)\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.AssemblyInfo.cs
+D:\New folder (3)\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.csproj.CoreCompileInputs.cache
+D:\New folder (3)\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.dll
+D:\New folder (3)\OnBudget.DA\obj\Debug\net7.0\refint\OnBudget.DA.dll
+D:\New folder (3)\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.pdb
+D:\New folder (3)\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.genruntimeconfig.cache
+D:\New folder (3)\OnBudget.DA\obj\Debug\net7.0\ref\OnBudget.DA.dll
+I:\New folder 2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.dll
+I:\New folder 2\OnBudget.DA\obj\Debug\net7.0\refint\OnBudget.DA.dll
+I:\New folder 2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.pdb
+I:\New folder 2\OnBudget.DA\bin\Debug\net7.0\OnBudget.DA.deps.json
+I:\New folder 2\OnBudget.DA\bin\Debug\net7.0\OnBudget.DA.runtimeconfig.json
+I:\New folder 2\OnBudget.DA\bin\Debug\net7.0\OnBudget.DA.dll
+I:\New folder 2\OnBudget.DA\bin\Debug\net7.0\OnBudget.DA.pdb
+I:\New folder 2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.csproj.AssemblyReference.cache
+I:\New folder 2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.GeneratedMSBuildEditorConfig.editorconfig
+I:\New folder 2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.AssemblyInfoInputs.cache
+I:\New folder 2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.AssemblyInfo.cs
+I:\New folder 2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.csproj.CoreCompileInputs.cache
+I:\New folder 2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.genruntimeconfig.cache
+I:\New folder 2\OnBudget.DA\obj\Debug\net7.0\ref\OnBudget.DA.dll
+F:\New folder 2\New folder 2\OnBudget.DA\bin\Debug\net7.0\OnBudget.DA.deps.json
+F:\New folder 2\New folder 2\OnBudget.DA\bin\Debug\net7.0\OnBudget.DA.runtimeconfig.json
+F:\New folder 2\New folder 2\OnBudget.DA\bin\Debug\net7.0\OnBudget.DA.dll
+F:\New folder 2\New folder 2\OnBudget.DA\bin\Debug\net7.0\OnBudget.DA.pdb
+F:\New folder 2\New folder 2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.csproj.AssemblyReference.cache
+F:\New folder 2\New folder 2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder 2\New folder 2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.AssemblyInfoInputs.cache
+F:\New folder 2\New folder 2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.AssemblyInfo.cs
+F:\New folder 2\New folder 2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.csproj.CoreCompileInputs.cache
+F:\New folder 2\New folder 2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.dll
+F:\New folder 2\New folder 2\OnBudget.DA\obj\Debug\net7.0\refint\OnBudget.DA.dll
+F:\New folder 2\New folder 2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.pdb
+F:\New folder 2\New folder 2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.genruntimeconfig.cache
+F:\New folder 2\New folder 2\OnBudget.DA\obj\Debug\net7.0\ref\OnBudget.DA.dll
+F:\Projects\backend\New folder 2\OnBudget.DA\bin\Debug\net7.0\OnBudget.DA.deps.json
+F:\Projects\backend\New folder 2\OnBudget.DA\bin\Debug\net7.0\OnBudget.DA.runtimeconfig.json
+F:\Projects\backend\New folder 2\OnBudget.DA\bin\Debug\net7.0\OnBudget.DA.dll
+F:\Projects\backend\New folder 2\OnBudget.DA\bin\Debug\net7.0\OnBudget.DA.pdb
+F:\Projects\backend\New folder 2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.csproj.AssemblyReference.cache
+F:\Projects\backend\New folder 2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\backend\New folder 2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.AssemblyInfoInputs.cache
+F:\Projects\backend\New folder 2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.AssemblyInfo.cs
+F:\Projects\backend\New folder 2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.csproj.CoreCompileInputs.cache
+F:\Projects\backend\New folder 2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.dll
+F:\Projects\backend\New folder 2\OnBudget.DA\obj\Debug\net7.0\refint\OnBudget.DA.dll
+F:\Projects\backend\New folder 2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.pdb
+F:\Projects\backend\New folder 2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.genruntimeconfig.cache
+F:\Projects\backend\New folder 2\OnBudget.DA\obj\Debug\net7.0\ref\OnBudget.DA.dll
+F:\Projects\backend\New_folder2\OnBudget.DA\bin\Debug\net7.0\OnBudget.DA.deps.json
+F:\Projects\backend\New_folder2\OnBudget.DA\bin\Debug\net7.0\OnBudget.DA.runtimeconfig.json
+F:\Projects\backend\New_folder2\OnBudget.DA\bin\Debug\net7.0\OnBudget.DA.dll
+F:\Projects\backend\New_folder2\OnBudget.DA\bin\Debug\net7.0\OnBudget.DA.pdb
+F:\Projects\backend\New_folder2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.csproj.AssemblyReference.cache
+F:\Projects\backend\New_folder2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\backend\New_folder2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.AssemblyInfoInputs.cache
+F:\Projects\backend\New_folder2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.AssemblyInfo.cs
+F:\Projects\backend\New_folder2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.csproj.CoreCompileInputs.cache
+F:\Projects\backend\New_folder2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.dll
+F:\Projects\backend\New_folder2\OnBudget.DA\obj\Debug\net7.0\refint\OnBudget.DA.dll
+F:\Projects\backend\New_folder2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.pdb
+F:\Projects\backend\New_folder2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.genruntimeconfig.cache
+F:\Projects\backend\New_folder2\OnBudget.DA\obj\Debug\net7.0\ref\OnBudget.DA.dll
+E:\backend\New_folder2\OnBudget.DA\bin\Debug\net7.0\OnBudget.DA.deps.json
+E:\backend\New_folder2\OnBudget.DA\bin\Debug\net7.0\OnBudget.DA.runtimeconfig.json
+E:\backend\New_folder2\OnBudget.DA\bin\Debug\net7.0\OnBudget.DA.dll
+E:\backend\New_folder2\OnBudget.DA\bin\Debug\net7.0\OnBudget.DA.pdb
+E:\backend\New_folder2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.csproj.AssemblyReference.cache
+E:\backend\New_folder2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.GeneratedMSBuildEditorConfig.editorconfig
+E:\backend\New_folder2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.AssemblyInfoInputs.cache
+E:\backend\New_folder2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.AssemblyInfo.cs
+E:\backend\New_folder2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.csproj.CoreCompileInputs.cache
+E:\backend\New_folder2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.dll
+E:\backend\New_folder2\OnBudget.DA\obj\Debug\net7.0\refint\OnBudget.DA.dll
+E:\backend\New_folder2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.pdb
+E:\backend\New_folder2\OnBudget.DA\obj\Debug\net7.0\OnBudget.DA.genruntimeconfig.cache
+E:\backend\New_folder2\OnBudget.DA\obj\Debug\net7.0\ref\OnBudget.DA.dll

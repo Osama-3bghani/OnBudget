@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\OnBudget",
+    "\\OnBudget.BL",
+    "\\OnBudget.BL\\Services",
+    "\\OnBudget.BL\\Services\\CategoryService",
+    "\\OnBudget.DA",
+    "\\OnBudget.DA\\Model",
+    "\\OnBudget.DA\\Model\\Entities",
+    "\\OnBudget.DA\\Repository",
+    "\\OnBudget.DA\\Repository\\CategoryRepo",
+    "\\OnBudget\\Controllers"
+  ],
+  "SelectedNode": "\\OnBudget.BL\\Services\\CategoryService\\CategoryService.cs",
+  "PreviewInSolutionExplorer": false
+}

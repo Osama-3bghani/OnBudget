@@ -1,0 +1,105 @@
+C:\Users\20100\source\repos\OnBudget.BL\bin\Debug\net7.0\OnBudget.BL.deps.json
+C:\Users\20100\source\repos\OnBudget.BL\bin\Debug\net7.0\OnBudget.BL.dll
+C:\Users\20100\source\repos\OnBudget.BL\bin\Debug\net7.0\OnBudget.BL.pdb
+C:\Users\20100\source\repos\OnBudget.BL\bin\Debug\net7.0\OnBudget.DA.dll
+C:\Users\20100\source\repos\OnBudget.BL\bin\Debug\net7.0\OnBudget.DA.pdb
+C:\Users\20100\source\repos\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.csproj.AssemblyReference.cache
+C:\Users\20100\source\repos\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20100\source\repos\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.AssemblyInfoInputs.cache
+C:\Users\20100\source\repos\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.AssemblyInfo.cs
+C:\Users\20100\source\repos\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.csproj.CoreCompileInputs.cache
+C:\Users\20100\source\repos\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.csproj.CopyComplete
+C:\Users\20100\source\repos\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.dll
+C:\Users\20100\source\repos\OnBudget.BL\obj\Debug\net7.0\refint\OnBudget.BL.dll
+C:\Users\20100\source\repos\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.pdb
+C:\Users\20100\source\repos\OnBudget.BL\obj\Debug\net7.0\ref\OnBudget.BL.dll
+D:\New folder (3)\OnBudget.BL\bin\Debug\net7.0\OnBudget.BL.deps.json
+D:\New folder (3)\OnBudget.BL\bin\Debug\net7.0\OnBudget.BL.dll
+D:\New folder (3)\OnBudget.BL\bin\Debug\net7.0\OnBudget.BL.pdb
+D:\New folder (3)\OnBudget.BL\bin\Debug\net7.0\OnBudget.DA.dll
+D:\New folder (3)\OnBudget.BL\bin\Debug\net7.0\OnBudget.DA.pdb
+D:\New folder (3)\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.csproj.AssemblyReference.cache
+D:\New folder (3)\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder (3)\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.AssemblyInfoInputs.cache
+D:\New folder (3)\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.AssemblyInfo.cs
+D:\New folder (3)\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.csproj.CoreCompileInputs.cache
+D:\New folder (3)\OnBudget.BL\obj\Debug\net7.0\OnBudget.2BBDD078.Up2Date
+D:\New folder (3)\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.dll
+D:\New folder (3)\OnBudget.BL\obj\Debug\net7.0\refint\OnBudget.BL.dll
+D:\New folder (3)\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.pdb
+D:\New folder (3)\OnBudget.BL\obj\Debug\net7.0\ref\OnBudget.BL.dll
+I:\New folder 2\OnBudget.BL\bin\Debug\net7.0\OnBudget.BL.deps.json
+I:\New folder 2\OnBudget.BL\bin\Debug\net7.0\OnBudget.BL.dll
+I:\New folder 2\OnBudget.BL\bin\Debug\net7.0\OnBudget.BL.pdb
+I:\New folder 2\OnBudget.BL\bin\Debug\net7.0\OnBudget.DA.dll
+I:\New folder 2\OnBudget.BL\bin\Debug\net7.0\OnBudget.DA.pdb
+I:\New folder 2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.csproj.AssemblyReference.cache
+I:\New folder 2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.GeneratedMSBuildEditorConfig.editorconfig
+I:\New folder 2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.AssemblyInfoInputs.cache
+I:\New folder 2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.AssemblyInfo.cs
+I:\New folder 2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.csproj.CoreCompileInputs.cache
+I:\New folder 2\OnBudget.BL\obj\Debug\net7.0\OnBudget.2BBDD078.Up2Date
+I:\New folder 2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.dll
+I:\New folder 2\OnBudget.BL\obj\Debug\net7.0\refint\OnBudget.BL.dll
+I:\New folder 2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.pdb
+I:\New folder 2\OnBudget.BL\obj\Debug\net7.0\ref\OnBudget.BL.dll
+F:\New folder 2\New folder 2\OnBudget.BL\bin\Debug\net7.0\OnBudget.BL.deps.json
+F:\New folder 2\New folder 2\OnBudget.BL\bin\Debug\net7.0\OnBudget.BL.dll
+F:\New folder 2\New folder 2\OnBudget.BL\bin\Debug\net7.0\OnBudget.BL.pdb
+F:\New folder 2\New folder 2\OnBudget.BL\bin\Debug\net7.0\OnBudget.DA.dll
+F:\New folder 2\New folder 2\OnBudget.BL\bin\Debug\net7.0\OnBudget.DA.pdb
+F:\New folder 2\New folder 2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.csproj.AssemblyReference.cache
+F:\New folder 2\New folder 2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.GeneratedMSBuildEditorConfig.editorconfig
+F:\New folder 2\New folder 2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.AssemblyInfoInputs.cache
+F:\New folder 2\New folder 2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.AssemblyInfo.cs
+F:\New folder 2\New folder 2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.csproj.CoreCompileInputs.cache
+F:\New folder 2\New folder 2\OnBudget.BL\obj\Debug\net7.0\OnBudget.2BBDD078.Up2Date
+F:\New folder 2\New folder 2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.dll
+F:\New folder 2\New folder 2\OnBudget.BL\obj\Debug\net7.0\refint\OnBudget.BL.dll
+F:\New folder 2\New folder 2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.pdb
+F:\New folder 2\New folder 2\OnBudget.BL\obj\Debug\net7.0\ref\OnBudget.BL.dll
+F:\Projects\backend\New folder 2\OnBudget.BL\bin\Debug\net7.0\OnBudget.BL.deps.json
+F:\Projects\backend\New folder 2\OnBudget.BL\bin\Debug\net7.0\OnBudget.BL.dll
+F:\Projects\backend\New folder 2\OnBudget.BL\bin\Debug\net7.0\OnBudget.BL.pdb
+F:\Projects\backend\New folder 2\OnBudget.BL\bin\Debug\net7.0\OnBudget.DA.dll
+F:\Projects\backend\New folder 2\OnBudget.BL\bin\Debug\net7.0\OnBudget.DA.pdb
+F:\Projects\backend\New folder 2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.csproj.AssemblyReference.cache
+F:\Projects\backend\New folder 2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\backend\New folder 2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.AssemblyInfoInputs.cache
+F:\Projects\backend\New folder 2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.AssemblyInfo.cs
+F:\Projects\backend\New folder 2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.csproj.CoreCompileInputs.cache
+F:\Projects\backend\New folder 2\OnBudget.BL\obj\Debug\net7.0\OnBudget.2BBDD078.Up2Date
+F:\Projects\backend\New folder 2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.dll
+F:\Projects\backend\New folder 2\OnBudget.BL\obj\Debug\net7.0\refint\OnBudget.BL.dll
+F:\Projects\backend\New folder 2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.pdb
+F:\Projects\backend\New folder 2\OnBudget.BL\obj\Debug\net7.0\ref\OnBudget.BL.dll
+F:\Projects\backend\New_folder2\OnBudget.BL\bin\Debug\net7.0\OnBudget.BL.deps.json
+F:\Projects\backend\New_folder2\OnBudget.BL\bin\Debug\net7.0\OnBudget.BL.dll
+F:\Projects\backend\New_folder2\OnBudget.BL\bin\Debug\net7.0\OnBudget.BL.pdb
+F:\Projects\backend\New_folder2\OnBudget.BL\bin\Debug\net7.0\OnBudget.DA.dll
+F:\Projects\backend\New_folder2\OnBudget.BL\bin\Debug\net7.0\OnBudget.DA.pdb
+F:\Projects\backend\New_folder2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.csproj.AssemblyReference.cache
+F:\Projects\backend\New_folder2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\backend\New_folder2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.AssemblyInfoInputs.cache
+F:\Projects\backend\New_folder2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.AssemblyInfo.cs
+F:\Projects\backend\New_folder2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.csproj.CoreCompileInputs.cache
+F:\Projects\backend\New_folder2\OnBudget.BL\obj\Debug\net7.0\OnBudget.2BBDD078.Up2Date
+F:\Projects\backend\New_folder2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.dll
+F:\Projects\backend\New_folder2\OnBudget.BL\obj\Debug\net7.0\refint\OnBudget.BL.dll
+F:\Projects\backend\New_folder2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.pdb
+F:\Projects\backend\New_folder2\OnBudget.BL\obj\Debug\net7.0\ref\OnBudget.BL.dll
+E:\backend\New_folder2\OnBudget.BL\bin\Debug\net7.0\OnBudget.BL.deps.json
+E:\backend\New_folder2\OnBudget.BL\bin\Debug\net7.0\OnBudget.BL.dll
+E:\backend\New_folder2\OnBudget.BL\bin\Debug\net7.0\OnBudget.BL.pdb
+E:\backend\New_folder2\OnBudget.BL\bin\Debug\net7.0\OnBudget.DA.dll
+E:\backend\New_folder2\OnBudget.BL\bin\Debug\net7.0\OnBudget.DA.pdb
+E:\backend\New_folder2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.csproj.AssemblyReference.cache
+E:\backend\New_folder2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\backend\New_folder2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.AssemblyInfoInputs.cache
+E:\backend\New_folder2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.AssemblyInfo.cs
+E:\backend\New_folder2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.csproj.CoreCompileInputs.cache
+E:\backend\New_folder2\OnBudget.BL\obj\Debug\net7.0\OnBudget.2BBDD078.Up2Date
+E:\backend\New_folder2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.dll
+E:\backend\New_folder2\OnBudget.BL\obj\Debug\net7.0\refint\OnBudget.BL.dll
+E:\backend\New_folder2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.pdb
+E:\backend\New_folder2\OnBudget.BL\obj\Debug\net7.0\ref\OnBudget.BL.dll
