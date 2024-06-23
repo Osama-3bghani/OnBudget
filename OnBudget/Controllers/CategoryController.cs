@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using OnBudget.BL.DTOs.CategoryDtos;
 using OnBudget.BL.Services.CategoryService;
 
@@ -26,13 +25,6 @@ namespace OnBudget.Controllers
             }
             return Ok(categoryDto);
         }
-
-        //[HttpGet]
-        //public async Task<ActionResult<IEnumerable<ReadCategoryDto>>> GetAllCategories()
-        //{
-        //    var categoriesDto = await _categoryService.GetAllCategoriesAsync();
-        //    return Ok(categoriesDto);
-        //}
 
         [HttpPost]
         public async Task<ActionResult<string>> AddCategory(WriteCategoryDto categoryDto)

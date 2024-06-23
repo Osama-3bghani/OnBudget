@@ -1,9 +1,6 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Http.HttpResults;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using OnBudget.BL.DTOs.SupplierDtos;
 using OnBudget.BL.Services.SupplierService;
-using System.Reflection.Metadata;
 
 namespace OnBudget.Controllers
 {
@@ -39,9 +36,8 @@ namespace OnBudget.Controllers
         [HttpPost]
         public async Task<ActionResult<string>> AddSupplier(WriteSupplierDto supplierDto)
         {
-            
+
             var supplierHandle = await _supplierService.AddSupplierAsync(supplierDto);
-            //return CreatedAtAction(nameof(GetSupplierById), new { id = supplierId }, supplierId);
             return Ok(supplierHandle);
         }
 

@@ -1,11 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using OnBudget.DA.AppContext;
 using OnBudget.DA.Model.Entities;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace OnBudget.DA.Repository.CustomerRepo
 {
@@ -52,7 +47,7 @@ namespace OnBudget.DA.Repository.CustomerRepo
 
         public Task<Customer> GetByUsernameAsync(string username)
         {
-            return _context.Customers.FirstOrDefaultAsync(customer=>customer.Handle == username);
+            return _context.Customers.FirstOrDefaultAsync(customer => customer.Handle == username);
 
         }
     }

@@ -1,11 +1,6 @@
 ﻿using OnBudget.BL.DTOs.CustomerDtos;
 using OnBudget.DA.Model.Entities;
 using OnBudget.DA.Repository.CustomerRepo;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace OnBudget.BL.Services.CustomerService
 {

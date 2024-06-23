@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace OnBudget.DA.Model.Entities
+﻿namespace OnBudget.DA.Model.Entities
 {
     public class OrderProduct
     {

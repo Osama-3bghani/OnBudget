@@ -1,16 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace OnBudget.BL.DTOs.PictureDtos
+﻿namespace OnBudget.BL.DTOs.PictureDtos
 {
     public class WritePictureDto
     {
 
         public string Front { get; set; }
         public string Back { get; set; }
-        //public int ProductId { get; set; }
     }
 }

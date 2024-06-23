@@ -3,11 +3,6 @@ using OnBudget.BL.DTOs.ProductDtos;
 using OnBudget.DA.Model.Entities;
 using OnBudget.DA.Repository.PictureRepo;
 using OnBudget.DA.Repository.ProductRepo;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace OnBudget.BL.Services.ProductService
 {
@@ -15,7 +10,7 @@ namespace OnBudget.BL.Services.ProductService
     {
         private readonly IProductRepository _productRepository;
         private readonly IPictureRepository _pictureRepository;
-       
+
         public ProductService(IProductRepository productRepository, IPictureRepository pictureRepository)
         {
             _productRepository = productRepository;
@@ -23,40 +18,11 @@ namespace OnBudget.BL.Services.ProductService
 
         }
 
-        //public async Task<ReadProductDto> GetProductByIdAsync(int id)
-        //{
-        //    var product = await _productRepository.GetByIdAsync(id);
-        //    return MapToDto(product);
-        //}
         public async Task<IEnumerable<ReadProductDto>> GetProductByNameAsync(string productName)
         {
             var products = await _productRepository.GetByNameAsync(productName);
             return products.Select(MapToDto);
         }
-        //async Task<IEnumerable<ReadProductDto>> IProductService.GetProductByNameAsync(string productName)
-        //{
-        //    var product = await _productRepository.GetByNameAsync(productName);
-        //    return MapToDto(product);
-        //}
-
-        //public async Task<IEnumerable<ReadProductDto>> GetAllProductsAsync()
-        //{
-        //    var products = await _productRepository.GetAllAsync();
-        //    return products.Select(MapToDto);
-        //}
-        //public async Task<int> AddProductAsync(WriteProductDto productDto, WritePictureDto pictureDto)
-        //{
-        //    var product = new Product
-        //    {
-        //        ProductName = productDto.ProductName,
-        //        ProductDescription = productDto.ProductDescription,
-        //        UnitPrice = productDto.UnitPrice,
-        //        Color = productDto.Color,
-        //        CategoryId = productDto.CategoryId,
-        //    };
-        //    await _productRepository.AddAsync(product);
-        //    return product.Id;
-        //}
         public async Task<int> AddProductAsync(WriteProductDto productDto, WritePictureDto pictureDto)
         {
             var product = new Product
@@ -69,7 +35,6 @@ namespace OnBudget.BL.Services.ProductService
                 CategoryName = productDto.CategoryName,
             };
             await _productRepository.AddAsync(product);
-            //*************************************************************************************
             var picture = new Picture
             {
                 Front = pictureDto.Front,
@@ -112,7 +77,6 @@ namespace OnBudget.BL.Services.ProductService
                 Color = product.Color,
                 CategoryName = product.CategoryName,
                 SupplierHandle = product.SupplierHandle,
-                //*************************************************************************************
                 Pictures = product.Pictures.Select(Picture => new ReadPictureDto
                 {
                     Front = Picture.Front,
@@ -142,6 +106,6 @@ namespace OnBudget.BL.Services.ProductService
             }).ToList();
         }
 
-        
+
     }
 }

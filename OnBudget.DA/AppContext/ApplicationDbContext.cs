@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Text.Json;
-using System.Threading.Tasks;
-
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using OnBudget.DA.Model.Entities;
 
 namespace OnBudget.DA.AppContext
@@ -20,9 +13,6 @@ namespace OnBudget.DA.AppContext
             {
                 optionsBuilder.UseSqlServer("Data Source = OSAMA-LAPTOP\\SQLEXPRESS; Initial Catalog = OnBudgett; Integrated Security = true ; Encrypt = false");
             }
-            //"Data Source = SQL8010.site4now.net;Initial Catalog=db_aa8533_onbudget;User Id=db_aa8533_onbudget_admin;Password=onbudget-1"
-            //optionsBuilder.UseSqlServer("Data Source = OSAMA-LAPTOP\\SQLEXPRESS; Initial Catalog = OnBudget; Integrated Security = true ; Encrypt = false");
-
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -46,17 +36,6 @@ namespace OnBudget.DA.AppContext
             base.OnModelCreating(modelBuilder);
         }
 
-        //protected override void OnModelCreating(ModelBuilder modelBuilder)
-        //{
-        //    modelBuilder.Entity<Order>()
-        //        .HasMany(o => o.Products)
-        //        .WithMany(p => p.Orders)
-        //        .UsingEntity(j => j.ToTable("OrderProduct"));
-
-        //    base.OnModelCreating(modelBuilder);
-        //}
-
-        //public DbSet<Bill> Bills { get; set; }
         public DbSet<Category> Categories { get; set; }
         public DbSet<Customer> Customers { get; set; }
         public DbSet<Order> Orders { get; set; }
@@ -65,7 +44,7 @@ namespace OnBudget.DA.AppContext
         public DbSet<Supplier> Suppliers { get; set; }
         public DbSet<Picture> Pictures { get; set; }
         public DbSet<OrderProduct> OrderProducts { get; set; }
-   
+
 
     }
 }

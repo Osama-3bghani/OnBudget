@@ -103,3 +103,4 @@ E:\backend\New_folder2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.dll
 E:\backend\New_folder2\OnBudget.BL\obj\Debug\net7.0\refint\OnBudget.BL.dll
 E:\backend\New_folder2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.pdb
 E:\backend\New_folder2\OnBudget.BL\obj\Debug\net7.0\ref\OnBudget.BL.dll
+E:\backend\New_folder2\OnBudget.BL\obj\Debug\net7.0\OnBudget.BL.sourcelink.json

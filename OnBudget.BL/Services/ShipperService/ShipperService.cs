@@ -1,14 +1,7 @@
-﻿using OnBudget.BL.DTOs.PictureDtos;
-using OnBudget.BL.DTOs.ShipperDtos;
-using OnBudget.BL.DTOs.SupplierDtos;
+﻿using OnBudget.BL.DTOs.ShipperDtos;
 using OnBudget.DA.Model.Entities;
 using OnBudget.DA.Repository.ShipperRepo;
 using OnBudget.DA.Repository.SupplierRepo;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace OnBudget.BL.Services.ShipperService
 {
@@ -34,7 +27,7 @@ namespace OnBudget.BL.Services.ShipperService
             var shippers = await _shipperRepository.GetAllAsync();
             return shippers.Select(MapToDto);
         }
-        
+
 
         public async Task<ReadShipperDto> AddShipperAsync(WriteShipperDto shipperDto)
         {
@@ -42,11 +35,6 @@ namespace OnBudget.BL.Services.ShipperService
             {
                 CompanyName = shipperDto.CompanyName,
                 Phone = shipperDto.Phone,
-                //CustomerId = shipperDto.CustomerId,
-                //Suppliers = new List<Supplier>
-                //{
-                //    new Supplier {Handle= ""}
-                //}
             };
             if (shipper.Suppliers == null)
             {
@@ -61,13 +49,12 @@ namespace OnBudget.BL.Services.ShipperService
                 }
                 else
                 {
-                    // Handle case where supplier handle is not found
                     throw new ArgumentException($"Supplier with handle '{supplierHandle}' not found.");
                 }
             }
             await _shipperRepository.AddAsync(shipper);
 
-            
+
             return MapToDto(shipper);
         }
 
@@ -78,8 +65,6 @@ namespace OnBudget.BL.Services.ShipperService
             {
                 shipper.CompanyName = shipperDto.CompanyName;
                 shipper.Phone = shipperDto.Phone;
-                //shipper.CustomerId = shipperDto.CustomerId;
-
                 if (shipperDto.Suppliers != null && shipperDto.Suppliers.Any())
                 {
                     foreach (var supplierHandle in shipperDto.Suppliers)
@@ -91,7 +76,6 @@ namespace OnBudget.BL.Services.ShipperService
                         }
                         else
                         {
-                            // Handle case where supplier handle is not found
                             throw new ArgumentException($"Supplier with handle '{supplierHandle}' not found.");
                         }
                     }
@@ -112,42 +96,8 @@ namespace OnBudget.BL.Services.ShipperService
                 Id = shipper.Id,
                 CompanyName = shipper.CompanyName,
                 Phone = shipper.Phone,
-                //CustomerId = shipper.CustomerId,
                 Suppliers = shipper.Suppliers.Select(supplier => supplier.Handle).ToList()
-                //Suppliers = shipper.Suppliers.Select(Supplier => new ReadSupplierDto
-                //{
-                //    Handle = Supplier.Handle,
-
-                //}).ToList()
             };
         }
-        //public async Task<ReadShipperDto> CreateShipperAsync(WriteShipperDto writeShipperDto)
-        //{
-        //    var shipper = new Shipper
-        //    {
-        //        CompanyName = writeShipperDto.CompanyName,
-        //        Phone = writeShipperDto.Phone,
-        //        CustomerId = writeShipperDto.CustomerId,
-        //        // Other properties as needed
-        //    };
-
-        //    foreach (var supplierHandle in writeShipperDto.Suppliers)
-        //    {
-        //        var supplier = await _supplierRepository.GetByUsernameAsync(supplierHandle);
-        //        if (supplier != null)
-        //        {
-        //            shipper.Suppliers.Add(supplier);
-        //        }
-        //        else
-        //        {
-        //            // Handle case where supplier handle is not found
-        //            throw new ArgumentException($"Supplier with handle '{supplierHandle}' not found.");
-        //        }
-        //    }
-
-        //    await _shipperRepository.AddAsync(shipper);
-
-        //    return MapToDto(shipper);
-        //}
     }
 }

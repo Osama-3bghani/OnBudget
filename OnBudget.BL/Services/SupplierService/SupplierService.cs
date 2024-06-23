@@ -1,11 +1,6 @@
 ﻿using OnBudget.BL.DTOs.SupplierDtos;
 using OnBudget.DA.Model.Entities;
 using OnBudget.DA.Repository.SupplierRepo;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace OnBudget.BL.Services.SupplierService
 {
@@ -32,7 +27,6 @@ namespace OnBudget.BL.Services.SupplierService
 
         public async Task<string> AddSupplierAsync(WriteSupplierDto supplierDto)
         {
-            // Create Supplier entity and set properties
             var supplier = new Supplier
             {
                 FirstName = supplierDto.FirstName,
@@ -41,11 +35,8 @@ namespace OnBudget.BL.Services.SupplierService
                 PhoneNumber = supplierDto.PhoneNumber,
                 CompanyName = supplierDto.CompanyName,
                 Password = supplierDto.Password,
-                //ProductId = supplierDto.ProductId,
-                
             };
 
-            // Add supplier to database
             await _supplierRepository.AddAsync(supplier);
 
             return supplier.Handle;
@@ -75,12 +66,11 @@ namespace OnBudget.BL.Services.SupplierService
         {
             return new ReadSupplierDto
             {
-                //Id = supplier.Id,
                 FirstName = supplier.FirstName,
                 LastName = supplier.LastName,
                 Handle = supplier.Handle,
                 PhoneNumber = supplier.PhoneNumber,
-                CompanyName = supplier.CompanyName               
+                CompanyName = supplier.CompanyName
             };
         }
     }

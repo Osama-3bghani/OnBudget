@@ -1,11 +1,6 @@
 ﻿using OnBudget.BL.DTOs.PictureDtos;
 using OnBudget.DA.Model.Entities;
 using OnBudget.DA.Repository.PictureRepo;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace OnBudget.BL.Services.PictureService
 {
@@ -23,7 +18,6 @@ namespace OnBudget.BL.Services.PictureService
             {
                 Front = writePictureDto.Front,
                 Back = writePictureDto.Back,
-                //ProductId = writePictureDto.ProductId,
             };
             await _pictureRepository.AddAsync(picture);
             return picture.Id;

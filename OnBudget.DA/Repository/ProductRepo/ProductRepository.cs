@@ -1,11 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using OnBudget.DA.AppContext;
 using OnBudget.DA.Model.Entities;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace OnBudget.DA.Repository.ProductRepo
 {
@@ -22,16 +17,6 @@ namespace OnBudget.DA.Repository.ProductRepo
         {
             return await _context.Products.FindAsync(id);
         }
-        //public async Task<Product> GetProductByNameAsync(string productName)
-        //{
-        //    return await _context.Products.FirstOrDefaultAsync(p => p.ProductName == productName);
-        //}
-
-        //public async Task<IEnumerable<Product>> GetAllAsync()
-        //{
-        //    return await _context.Products.ToListAsync();
-        //}
-
         public async Task AddAsync(Product product)
         {
             _context.Products.Add(product);

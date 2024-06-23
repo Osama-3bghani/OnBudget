@@ -1,5 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using OnBudget.BL.DTOs.LoginDtos;
 using OnBudget.BL.Services.LoginService;
 using System.ComponentModel.DataAnnotations;
@@ -17,31 +16,14 @@ namespace OnBudget.Controllers
             _loginService = loginService;
         }
 
-        //[HttpPost("customer")]
-        //public async Task<ActionResult<string>> CustomerLogin(LoginDto loginDto)
-        //{
-        //    var token = await _loginService.CustomerLoginAsync(loginDto);
-        //    if (token == null)
-        //        return Unauthorized(); // or BadRequest() depending on your requirements
-        //    return Ok(token);
-        //}
-
-        //[HttpPost("supplier")]
-        //public async Task<ActionResult<string>> SupplierLogin(LoginDto loginDto)
-        //{
-        //    var token = await _loginService.SupplierLoginAsync(loginDto);
-        //    if (token == null)
-        //        return Unauthorized(); // or BadRequest() depending on your requirements
-        //    return Ok(token);
-        //}
         [HttpPost]
-        public async Task<ActionResult<string>> Login(LoginDto loginDto,[Required] string userType)
+        public async Task<ActionResult<string>> Login(LoginDto loginDto, [Required] string userType)
         {
             try
             {
                 var token = await _loginService.LoginAsync(loginDto, userType);
                 if (token == null)
-                    return Unauthorized(); // or BadRequest() depending on your requirements
+                    return Unauthorized();
                 return Ok(token);
             }
             catch (ArgumentException)

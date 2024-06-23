@@ -548,3 +548,4 @@ E:\backend\New_folder2\OnBudget\obj\Debug\net7.0\refint\OnBudget.dll
 E:\backend\New_folder2\OnBudget\obj\Debug\net7.0\OnBudget.pdb
 E:\backend\New_folder2\OnBudget\obj\Debug\net7.0\OnBudget.genruntimeconfig.cache
 E:\backend\New_folder2\OnBudget\obj\Debug\net7.0\ref\OnBudget.dll
+E:\backend\New_folder2\OnBudget\obj\Debug\net7.0\OnBudget.sourcelink.json

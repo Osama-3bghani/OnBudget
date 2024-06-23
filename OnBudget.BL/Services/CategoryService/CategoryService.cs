@@ -3,11 +3,6 @@ using OnBudget.BL.DTOs.PictureDtos;
 using OnBudget.BL.DTOs.ProductDtos;
 using OnBudget.DA.Model.Entities;
 using OnBudget.DA.Repository.CategoryRepo;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace OnBudget.BL.Services.CategoryService
 {
@@ -26,18 +21,11 @@ namespace OnBudget.BL.Services.CategoryService
             return MapToDto(category);
         }
 
-        //public async Task<IEnumerable<ReadCategoryDto>> GetAllCategoriesAsync()
-        //{
-        //    var categories = await _categoryRepository.GetAllAsync();
-        //    return categories.Select(MapToDto);
-        //}
-
         public async Task<string> AddCategoryAsync(WriteCategoryDto writeCategoryDto)
         {
             var category = new Category
             {
                 Name = writeCategoryDto.Name,
-                //Description = writeCategoryDto.Description
             };
             await _categoryRepository.AddAsync(category);
             return category.Name;
@@ -49,7 +37,6 @@ namespace OnBudget.BL.Services.CategoryService
             if (category != null)
             {
                 category.Name = writeCategoryDto.Name;
-                //category.Description = writeCategoryDto.Description;
                 await _categoryRepository.UpdateAsync(category);
             }
         }
@@ -63,9 +50,7 @@ namespace OnBudget.BL.Services.CategoryService
         {
             return new ReadCategoryDto
             {
-                //Id = category.Id,
                 Name = category.Name,
-                //Description = category.Description
                 Products = category.Products.Select(product => new ReadProductDto
                 {
                     Id = product.Id,
@@ -89,9 +74,7 @@ namespace OnBudget.BL.Services.CategoryService
             var categories = await _categoryRepository.GetAllCategoriesWithProductsAsync();
             return categories.Select(category => new ReadCategoryDto
             {
-                //Id = category.Id,
                 Name = category.Name,
-                //Description = category.Description,
                 Products = category.Products.Select(product => new ReadProductDto
                 {
                     Id = product.Id,
@@ -110,5 +93,5 @@ namespace OnBudget.BL.Services.CategoryService
                 }).ToList()
             }).ToList();
         }
-        }
+    }
 }
