@@ -8,7 +8,8 @@ namespace OnBudget.BL.Services.ProductService
         Task<int> AddProductAsync(WriteProductDto productDto, WritePictureDto pictureDto);
         Task UpdateProductAsync(int id, WriteProductDto productDto);
         Task RemoveProductAsync(int id);
+        Task<ReadProductDto> GetProductByIdAsync(int id);
         Task<List<ReadProductDto>> GetAllProductsWithPicturesAsync();
-        Task<IEnumerable<ReadProductDto>> GetProductByNameAsync(string productName);
+        Task<IEnumerable<ReadProductDto>> FindProductByNameAsync(string productName);
     }
 }

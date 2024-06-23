@@ -15,7 +15,9 @@ namespace OnBudget.DA.Repository.ProductRepo
 
         public async Task<Product> GetByIdAsync(int id)
         {
-            return await _context.Products.FindAsync(id);
+            return await _context.Products
+                                 .Include(p => p.Pictures)
+                                 .FirstOrDefaultAsync(p => p.Id == id);
         }
         public async Task AddAsync(Product product)
         {
@@ -56,7 +58,7 @@ namespace OnBudget.DA.Repository.ProductRepo
                 .ToListAsync();
         }
 
-        public async Task<IEnumerable<Product>> GetByNameAsync(string productName)
+        public async Task<IEnumerable<Product>> FindByNameAsync(string productName)
         {
             return await _context.Products.Include(p => p.Pictures).Where(p => p.ProductName == productName).ToListAsync();
         }

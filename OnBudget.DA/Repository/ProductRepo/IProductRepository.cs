@@ -9,6 +9,6 @@ namespace OnBudget.DA.Repository.ProductRepo
         Task UpdateAsync(Product product);
         Task RemoveAsync(int id);
         Task<List<Product>> GetAllProductsWithPicturesAsync();
-        Task<IEnumerable<Product>> GetByNameAsync(string productName);
+        Task<IEnumerable<Product>> FindByNameAsync(string productName);
     }
 }

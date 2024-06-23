@@ -16,12 +16,12 @@ namespace OnBudget.Controllers
             _productService = productService;
         }
 
-        [HttpGet("{productName}")]
-        public async Task<IActionResult> GetProductsByName(string productName)
+        [HttpGet("name/{productName}")]
+        public async Task<IActionResult> FindProductsByName(string productName)
         {
             try
             {
-                var products = await _productService.GetProductByNameAsync(productName);
+                var products = await _productService.FindProductByNameAsync(productName);
                 if (products == null || !products.Any())
                 {
                     return NotFound();
@@ -32,6 +32,17 @@ namespace OnBudget.Controllers
             {
                 return StatusCode(500, $"Internal server error: {ex.Message}");
             }
+        }
+
+        [HttpGet("{id:int}")]
+        public async Task<ActionResult<ReadProductDto>> GetProductById(int id)
+        {
+            var productDto = await _productService.GetProductByIdAsync(id);
+            if (productDto == null)
+            {
+                return NotFound();
+            }
+            return Ok(productDto);
         }
 
         [HttpPost]

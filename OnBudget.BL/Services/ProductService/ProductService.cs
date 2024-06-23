@@ -18,9 +18,15 @@ namespace OnBudget.BL.Services.ProductService
 
         }
 
-        public async Task<IEnumerable<ReadProductDto>> GetProductByNameAsync(string productName)
+        public async Task<ReadProductDto> GetProductByIdAsync(int id)
         {
-            var products = await _productRepository.GetByNameAsync(productName);
+            var product = await _productRepository.GetByIdAsync(id);
+            return MapToDto(product);
+        }
+
+        public async Task<IEnumerable<ReadProductDto>> FindProductByNameAsync(string productName)
+        {
+            var products = await _productRepository.FindByNameAsync(productName);
             return products.Select(MapToDto);
         }
         public async Task<int> AddProductAsync(WriteProductDto productDto, WritePictureDto pictureDto)
