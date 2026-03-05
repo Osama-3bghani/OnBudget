@@ -51,6 +51,7 @@ namespace OnBudget.DA.Repository.ProductRepo
                     ProductDescription = c.ProductDescription,
                     UnitPrice = c.UnitPrice,
                     Color = c.Color,
+                    Quantity = c.Quantity,
                     CategoryName = c.CategoryName,
                     SupplierHandle = c.SupplierHandle,
                     Pictures = c.Pictures.ToList()

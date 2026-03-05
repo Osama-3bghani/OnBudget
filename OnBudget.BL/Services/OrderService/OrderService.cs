@@ -108,6 +108,7 @@ namespace OnBudget.BL.Services.OrderService
                 order.Quantity = orderDto.Quantity;
                 order.CustomerId = orderDto.CustomerId;
                 //order.Products = new List<Product>();
+                order.OrderProducts.Clear(); // ← add this line
                 foreach (var Products in orderDto.Products)
                 {
                     var product = await _productRepository.GetByIdAsync(Products.ProductId);

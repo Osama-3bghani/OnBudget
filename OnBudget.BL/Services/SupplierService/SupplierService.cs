@@ -53,7 +53,7 @@ namespace OnBudget.BL.Services.SupplierService
                 supplier.Handle = supplierDto.Handle;
                 supplier.PhoneNumber = supplierDto.PhoneNumber;
                 supplier.CompanyName = supplierDto.CompanyName;
-                supplier.Password = supplierDto.Password;
+                supplier.Password = BCrypt.Net.BCrypt.HashPassword(supplierDto.Password);
                 await _supplierRepository.UpdateAsync(supplier);
             }
         }

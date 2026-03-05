@@ -105,6 +105,7 @@ namespace OnBudget.BL.Services.ProductService
                 ProductDescription = products.ProductDescription,
                 UnitPrice = products.UnitPrice,
                 Color = products.Color,
+                Quantity = products.Quantity,
                 CategoryName = products.CategoryName,
                 SupplierHandle = products.SupplierHandle,
                 Pictures = products.Pictures.Select(Picture => new ReadPictureDto
