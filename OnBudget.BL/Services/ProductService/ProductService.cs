@@ -60,6 +60,7 @@ namespace OnBudget.BL.Services.ProductService
                 product.ProductDescription = productDto.ProductDescription;
                 product.UnitPrice = productDto.UnitPrice;
                 product.Color = productDto.Color;
+                product.Quantity = productDto.Quantity;
                 product.SupplierHandle = productDto.SupplierHandle;
                 product.CategoryName = productDto.CategoryName;
                 await _productRepository.UpdateAsync(product);
@@ -81,6 +82,7 @@ namespace OnBudget.BL.Services.ProductService
                 ProductDescription = product.ProductDescription,
                 UnitPrice = product.UnitPrice,
                 Color = product.Color,
+                Quantity = product.Quantity,
                 CategoryName = product.CategoryName,
                 SupplierHandle = product.SupplierHandle,
                 Pictures = product.Pictures.Select(Picture => new ReadPictureDto

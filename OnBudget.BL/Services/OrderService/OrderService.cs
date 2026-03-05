@@ -97,7 +97,7 @@ namespace OnBudget.BL.Services.OrderService
                 order.TotalPrice = orderDto.TotalPrice;
                 order.Quantity = orderDto.Quantity;
                 order.CustomerId = orderDto.CustomerId;
-                order.Products = new List<Product>();
+                //order.Products = new List<Product>();
                 foreach (var Products in orderDto.Products)
                 {
                     var product = await _productRepository.GetByIdAsync(Products.ProductId);

@@ -52,7 +52,7 @@ namespace OnBudget.BL.Services.CustomerService
                 customer.PhoneNumber = customerDto.PhoneNumber;
                 customer.Gender = customerDto.Gender;
                 customer.Address = customerDto.Address;
-                customer.Password = customerDto.Password;
+                customer.Password = BCrypt.Net.BCrypt.HashPassword(customerDto.Password);
                 await _customerRepository.UpdateAsync(customer);
             }
         }

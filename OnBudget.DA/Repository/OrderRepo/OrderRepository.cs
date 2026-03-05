@@ -13,7 +13,9 @@ public class OrderRepository : IOrderRepository
 
     public async Task<Order> GetByIdAsync(int id)
     {
-        return await _context.Orders.FindAsync(id);
+        return await _context.Orders
+            .Include(o => o.Products).ThenInclude(p => p.Pictures)
+            .FirstOrDefaultAsync(o => o.Id == id); // ✅ Loads Products + Pictures
     }
 
     public async Task<List<Order>> GetAllAsync()
