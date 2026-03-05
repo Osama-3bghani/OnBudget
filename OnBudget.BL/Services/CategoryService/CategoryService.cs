@@ -18,6 +18,7 @@ namespace OnBudget.BL.Services.CategoryService
         public async Task<ReadCategoryDto> GetCategoryByNameAsync(string name)
         {
             var category = await _categoryRepository.GetByNameAsync(name);
+            if (category == null) return null; // ✅ Let controller return 404
             return MapToDto(category);
         }
 

@@ -16,6 +16,7 @@ namespace OnBudget.BL.Services.CustomerService
         public async Task<ReadCustomerDto> GetCustomerByIdAsync(int id)
         {
             var customer = await _customerRepository.GetByIdAsync(id);
+            if (customer == null) return null; // ✅ Let controller return 404
             return MapToDto(customer);
         }
 
@@ -35,7 +36,7 @@ namespace OnBudget.BL.Services.CustomerService
                 PhoneNumber = customerDto.PhoneNumber,
                 Gender = customerDto.Gender,
                 Address = customerDto.Address,
-                Password = customerDto.Password,
+                Password = BCrypt.Net.BCrypt.HashPassword(customerDto.Password), // ✅
             };
             await _customerRepository.AddAsync(customer);
             return customer.Id;
