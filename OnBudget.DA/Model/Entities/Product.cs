@@ -9,6 +9,7 @@
         public string Color { get; set; }
         public string CategoryName { get; set; }
         public string SupplierHandle { get; set; }
+        public int Quantity { get; set; }
         public ICollection<Picture> Pictures { get; set; } = new HashSet<Picture>();
         public ICollection<OrderProduct> OrderProducts { get; set; } = new List<OrderProduct>();
     }

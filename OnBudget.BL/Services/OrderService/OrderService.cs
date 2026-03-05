@@ -62,26 +62,36 @@ namespace OnBudget.BL.Services.OrderService
                 TotalPrice = orderDto.TotalPrice,
                 Quantity = orderDto.Quantity,
                 CustomerId = orderDto.CustomerId,
-                Products = new List<Product>()
+                //Products = new List<Product>()
             };
-
-            foreach (var Products in orderDto.Products)
+            foreach (var item in orderDto.Products)
             {
-                var product = await _productRepository.GetByIdAsync(Products.ProductId);
-                if (product == null)
-                {
-                    _logger.LogError($"Product with ID {Products.ProductId} not found.");
-                    continue;
-                }
-
-                var orderProduct = new OrderProduct
+                var product = await _productRepository.GetByIdAsync(item.ProductId);
+                if (product == null) { _logger.LogError($"Product with ID {item.ProductId} not found."); continue; }
+                order.OrderProducts.Add(new OrderProduct // ✅ Consistent: only use OrderProducts
                 {
                     Product = product,
-                    Quantity = Products.Quantity
-                };
-                order.OrderProducts.Add(orderProduct);
-
+                    Quantity = item.Quantity
+                });
             }
+
+            //foreach (var Products in orderDto.Products)
+            //{
+            //    var product = await _productRepository.GetByIdAsync(Products.ProductId);
+            //    if (product == null)
+            //    {
+            //        _logger.LogError($"Product with ID {Products.ProductId} not found.");
+            //        continue;
+            //    }
+
+            //    var orderProduct = new OrderProduct
+            //    {
+            //        Product = product,
+            //        Quantity = Products.Quantity
+            //    };
+            //    order.OrderProducts.Add(orderProduct);
+
+            //}
 
             await _orderRepository.AddAsync(order);
             return order.Id;
@@ -133,6 +143,21 @@ namespace OnBudget.BL.Services.OrderService
                 TotalPrice = order.TotalPrice,
                 Quantity = order.Quantity,
                 CustomerId = order.CustomerId,
+                Products = order.Products?.Select(product => new ReadProductDto // ✅
+                {
+                    Id = product.Id,
+                    ProductName = product.ProductName,
+                    ProductDescription = product.ProductDescription,
+                    UnitPrice = product.UnitPrice,
+                    Color = product.Color,
+                    CategoryName = product.CategoryName,
+                    SupplierHandle = product.SupplierHandle,
+                    Pictures = product.Pictures?.Select(p => new ReadPictureDto
+                    {
+                        Front = p.Front,
+                        Back = p.Back,
+                    }).ToList()
+                }).ToList()
             };
         }
 

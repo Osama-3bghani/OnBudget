@@ -16,6 +16,7 @@ namespace OnBudget.BL.Services.SupplierService
         public async Task<ReadSupplierDto> GetByUsernameAsync(string Handle)
         {
             var supplier = await _supplierRepository.GetByUsernameAsync(Handle);
+            if (supplier == null) return null; // ✅ Let controller return 404
             return MapToDto(supplier);
         }
 
@@ -34,7 +35,7 @@ namespace OnBudget.BL.Services.SupplierService
                 Handle = supplierDto.Handle,
                 PhoneNumber = supplierDto.PhoneNumber,
                 CompanyName = supplierDto.CompanyName,
-                Password = supplierDto.Password,
+                Password = BCrypt.Net.BCrypt.HashPassword(supplierDto.Password), // ✅
             };
 
             await _supplierRepository.AddAsync(supplier);
@@ -52,7 +53,7 @@ namespace OnBudget.BL.Services.SupplierService
                 supplier.Handle = supplierDto.Handle;
                 supplier.PhoneNumber = supplierDto.PhoneNumber;
                 supplier.CompanyName = supplierDto.CompanyName;
-                supplierDto.Password = supplierDto.Password;
+                supplier.Password = supplierDto.Password;
                 await _supplierRepository.UpdateAsync(supplier);
             }
         }

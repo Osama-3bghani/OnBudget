@@ -6,6 +6,7 @@
         public string ProductDescription { get; set; }
         public double UnitPrice { get; set; }
         public string Color { get; set; }
+        public int Quantity { get; set; }
         public string SupplierHandle { get; set; }
 
         public string CategoryName { get; set; }

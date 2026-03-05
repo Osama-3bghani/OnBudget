@@ -21,6 +21,7 @@ namespace OnBudget.BL.Services.ProductService
         public async Task<ReadProductDto> GetProductByIdAsync(int id)
         {
             var product = await _productRepository.GetByIdAsync(id);
+            if (product == null) return null; // ✅ Let controller return 404
             return MapToDto(product);
         }
 
@@ -39,6 +40,7 @@ namespace OnBudget.BL.Services.ProductService
                 Color = productDto.Color,
                 SupplierHandle = productDto.SupplierHandle,
                 CategoryName = productDto.CategoryName,
+                Quantity = productDto.Quantity
             };
             await _productRepository.AddAsync(product);
             var picture = new Picture

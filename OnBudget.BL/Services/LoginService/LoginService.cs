@@ -1,6 +1,11 @@
-﻿using OnBudget.BL.DTOs.LoginDtos;
+﻿using Microsoft.Extensions.Configuration;
+using Microsoft.IdentityModel.Tokens;
+using OnBudget.BL.DTOs.LoginDtos;
 using OnBudget.DA.Repository.CustomerRepo;
 using OnBudget.DA.Repository.SupplierRepo;
+using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
+using System.Text;
 
 namespace OnBudget.BL.Services.LoginService
 {
@@ -8,11 +13,14 @@ namespace OnBudget.BL.Services.LoginService
     {
         private readonly ICustomerRepository _customerRepository;
         private readonly ISupplierRepository _supplierRepository;
+        private readonly IConfiguration _config;  // ← add this
 
-        public LoginService(ICustomerRepository customerRepository, ISupplierRepository supplierRepository)
+
+        public LoginService(ICustomerRepository customerRepository, ISupplierRepository supplierRepository, IConfiguration config)
         {
             _customerRepository = customerRepository;
             _supplierRepository = supplierRepository;
+            _config = config;
         }
 
         public async Task<string> LoginAsync(LoginDto loginDto, string userType)
@@ -47,12 +55,31 @@ namespace OnBudget.BL.Services.LoginService
 
         private bool IsPasswordValid(string storedPassword, string enteredPassword)
         {
-            return storedPassword == enteredPassword;
+            return BCrypt.Net.BCrypt.Verify(enteredPassword, storedPassword); // ✅
         }
 
         private string GenerateToken(string username, string userType)
         {
-            return $"token_for_{username}_as_{userType}";
+            var key = new SymmetricSecurityKey(
+                Encoding.UTF8.GetBytes(_config["Jwt:Key"]));
+            var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
+
+            var claims = new[]
+            {
+        new Claim(ClaimTypes.Name, username),
+        new Claim(ClaimTypes.Role, userType),
+        new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString()),
+    };
+
+            var token = new JwtSecurityToken(
+                issuer: _config["Jwt:Issuer"],
+                audience: _config["Jwt:Audience"],
+                claims: claims,
+                expires: DateTime.UtcNow.AddHours(2),
+                signingCredentials: creds
+            );
+
+            return new JwtSecurityTokenHandler().WriteToken(token);
         }
     }
 }
