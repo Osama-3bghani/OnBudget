@@ -19,6 +19,7 @@ namespace OnBudget.BL.Services.ShipperService
         public async Task<ReadShipperDto> GetShipperByIdAsync(int id)
         {
             var shipper = await _shipperRepository.GetByIdAsync(id);
+            if (shipper == null) return null; // ✅ Let controller return 404
             return MapToDto(shipper);
         }
 
@@ -67,6 +68,7 @@ namespace OnBudget.BL.Services.ShipperService
                 shipper.Phone = shipperDto.Phone;
                 if (shipperDto.Suppliers != null && shipperDto.Suppliers.Any())
                 {
+                    shipper.Suppliers.Clear(); // ✅ Remove old associations first
                     foreach (var supplierHandle in shipperDto.Suppliers)
                     {
                         var supplier = await _supplierRepository.GetByUsernameAsync(supplierHandle);

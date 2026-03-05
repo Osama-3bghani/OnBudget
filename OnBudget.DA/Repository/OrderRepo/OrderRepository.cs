@@ -23,7 +23,7 @@ public class OrderRepository : IOrderRepository
                 .Select(p => new Order
                 {
                     Id = p.Id,
-                    OrderDate = DateTime.Now,
+                    OrderDate = p.OrderDate,
                     Quantity = p.Quantity,
                     TotalPrice = p.TotalPrice,
                     CustomerId = p.CustomerId,
